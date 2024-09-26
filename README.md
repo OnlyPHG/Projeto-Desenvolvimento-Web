@@ -2,9 +2,9 @@
 
 Este projeto é primariamente uma realização para uma atividade escolar. Sou estudante de Ciencia da Computação.(Portanto não tem fins lucrativos)
 
-Sobre o projeto/////////////////////////////
+Sobre o projeto////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-O objetivo era criar um formulario utilizando HTML e CSS, estilizar o mesmo e aplicar as devidas formatações(Reconhecer E-maisl, Telefones e etc.)
+O objetivo era criar um formulario utilizando HTML e CSS, estilizar o mesmo e aplicar as devidas formatações(Reconhecer E-mails, Telefones e etc.)
 este projeto no entanto não está de fato finalizado(até a data de 26/09/24) ainda tem muitos ajustes que gostaria de fazer no mesmo e é claro aplicar
 a interligação com uma linguagem de programação apropriada e não só depender do HTML e CSS.
 
