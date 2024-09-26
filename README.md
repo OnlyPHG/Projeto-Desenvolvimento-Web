@@ -8,6 +8,8 @@ O objetivo era criar um formulario utilizando HTML e CSS, estilizar o mesmo e ap
 este projeto no entanto não está de fato finalizado(até a data de 26/09/24) ainda tem muitos ajustes que gostaria de fazer no mesmo e é claro aplicar
 a interligação com uma linguagem de programação apropriada e não só depender do HTML e CSS.
 
+O tema desse projeto seria relacionado com o jogo League of Legends.
+
 Na criação deste projeto comi o pão que o ##### amassou, tive que pesquisar muito para entender como fazer o que eu queria(Sério). A maior parte do
 tempo gasto neste projeto foi pesquisando como fazer ele, pesquisando como centralizar o conteudo, como aplicar bordas ou não, deixar ele responsivo
 e por incrivel que pareça o meu maior sofrimento foi deixar um Vídeo rodando de fundo(Não to brincando)francamente quase joguei meu computador de uma
@@ -24,6 +26,8 @@ melhorar com mais calma e conhecimento(Que claramente ta em falta.)
  que o estilo que ele deixava o input não me agradou. Porém como devem imaginar eu não consegui então deixei tudo como 'text' mesmo.
  Não é possivel passar pelo formulario sem preencher todos os campos, porém basta digitar qualquer coisa que vai dar certo(O required ta segurando as 
  pontas até eu aplicar uma formatação decente).
+ Sem falar do 'Select' esse que além de não me agradar o desing, também me deu tanto problema que eu simplesmente desisti de usar o mesmo.(Select para a
+ criação de seleção em listas).
  Embora funcione atualmente, esse maldito vídeo de fundo me fez querer largar a faculdade(Sendo sincero, não sei como ele ta funcionando como background).
  Porém é como dizem "Questionem os metodos mas não o resultado". Eu passei muitos dias tentando fazer ele ficar como background(Talvez uns 5 dias ou mais).
  E eu nem vou comentar os perrengues que passei para estilizar o CSS dessa bomba, fora tentar interligar PHP, Java, Phyton para as formataçoes. No fim
