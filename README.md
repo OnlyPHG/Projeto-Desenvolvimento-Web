@@ -1,3 +1,4 @@
+///////AINDA INCOMPLETO//////
 #Olá me chamo Carlos Eduardo(BCC/Noturno-1961011).
 
 Este projeto é primariamente uma realização para uma atividade escolar. Sou estudante de Ciencia da Computação.(Portanto não tem fins lucrativos)
